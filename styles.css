@@ -1,0 +1,29 @@
+body {
+	background-color: #f4ebd0;
+}
+
+a {
+	color: #b68d40;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #122620;
+}
+
+i:hover {
+	color: #b68d40;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.wrapper-logo {
+	width: 100px;
+	height: 100px;
+}
+
+.wrapper-logo img {
+	border-radius: 50%;
+}
